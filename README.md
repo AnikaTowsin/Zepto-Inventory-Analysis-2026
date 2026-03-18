@@ -3,7 +3,7 @@ Project Overview
 This project transforms raw inventory data into actionable business intelligence. Using **PostgreSQL** for data engineering and **Tableau** for visualization, I identified key revenue leaks and optimized stock categorization for Zepto.
 
 ## 📊 Executive Dashboard
-![Zepto Dashboard](dashboardzepto_2026.png)
+![Zepto Dashboard](zeptoanalysis.png)
 [Tableau Public](https://public.tableau.com/views/zepto_inventory_analysis2026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## 🛠️Stack of Tech- **Database:** PostgreSQL (for cleaning data and adding features)
 - **Tableau Desktop for Visualization**
